@@ -1,12 +1,4 @@
 # Identifying Cybersecurity Threats
-Analyzing network communications to identify threats.
-
-<img src="https://imgur.com/a/LvvK7VV">
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
-# Identifying Cybersecurity Threats
-
 > Using machine learning to analyze network communications, predict whether or not they are malicious and determine the type of attack if so.
 
 ## License
