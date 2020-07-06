@@ -1,7 +1,7 @@
 # Identifying Cybersecurity Threats
 Analyzing network communications to identify threats.
 
-<a href="http://fvcproductions.com"><img src="https://imgur.com/a/LvvK7VV" title="Cybersecurity" alt="Cybersecurity"></a>
+<img src="https://imgur.com/a/LvvK7VV">
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
