@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/cybersecurity.png" alt="Logo" width="80" height="80">
+    <img src="images/cybersecurity.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
