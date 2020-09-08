@@ -18,3 +18,6 @@ https://colab.research.google.com/drive/1efSE4MkkXXv2oF35OeOzXSyM4IbKvO6A?usp=sh
 
 ## Databricks Notebook (Spark Demo)
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5838070033619084/1491280581433062/6937281827665532/latest.html
+
+## Check it out on Career Karma!
+https://careerkarma.com/discussions/projects/identifying-cybersecurity-threats-330
