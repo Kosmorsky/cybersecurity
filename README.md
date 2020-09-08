@@ -1,6 +1,15 @@
 # Identifying Cybersecurity Threats
 Using machine learning to analyze network communications, predict whether or not they are malicious and determine the type of attack if so.
 
+## Note
+This was my final project at Thinkful. 
+
+After finding a database of simulated network communication events, I wanted to tackle two tasks. First, predict whether an event was malicious or not, and second, predict the type of attack.
+
+The original database contained over 16 million rows, making this my first experience with big data. It was interesting learning to deal with this issue via solutions such as Spark among other strategies.
+
+The size of the data was only one of many hurdles, however. I've learned quite a lot throughout this project, and although it's far from finished, I hope you can enjoy my findings.
+
 ## Presentation
 https://docs.google.com/presentation/d/1b0OuQY0-tJ83sMYF_ZWu12m241WTaMj0SrKTKRZirHQ/edit?usp=sharing
 
