@@ -10,13 +10,10 @@
   <p align="center">
     Using machine learning to analyze network communications, predict whether or not they are malicious and determine the type of attack if so.
     <br />
+    <a href="https://careerkarma.com/discussions/projects/identifying-cybersecurity-threats-330">Career Karma</a>
+    <br />
   </p>
 </p>
-
-# Identifying Cybersecurity Threats
-Using machine learning to analyze network communications, predict whether or not they are malicious and determine the type of attack if so.
-
-#### Career Karma: https://careerkarma.com/discussions/projects/identifying-cybersecurity-threats-330
 
 ## Note
 This was my final project at Thinkful. 
