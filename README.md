@@ -5,12 +5,10 @@
     <img src="images/cybersecurity.png" alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">Identifying Cybersecurity Threats</h3>
+  <h2 align="center">Identifying Cybersecurity Threats</h2>
 
   <p align="center">
     Using machine learning to analyze network communications, predict whether or not they are malicious and determine the type of attack if so.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
