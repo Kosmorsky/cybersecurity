@@ -11,7 +11,7 @@
     Using machine learning to analyze network communications, predict whether or not they are malicious and determine the type of attack if so.
     <br />
     <br />
-    <a href="https://careerkarma.com/discussions/projects/identifying-cybersecurity-threats-330">Career Karma</a>
+    <a href="https://careerkarma.com/discussions/projects/identifying-cybersecurity-threats-330">View on Career Karma</a>
     <br />
   </p>
 </p>
