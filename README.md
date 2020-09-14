@@ -17,8 +17,6 @@
 </p>
 
 ## Note
-This was my final project at Thinkful. 
-
 After finding a database of simulated network communication events, I wanted to tackle two tasks. First, predict whether an event was malicious or not, and second, predict the type of attack.
 
 The original database contained over 16 million rows, making this my first experience with big data. It was interesting learning to deal with this issue via solutions such as Spark among other strategies.
